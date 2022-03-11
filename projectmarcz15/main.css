@@ -1,0 +1,13 @@
+body{
+    background-image: linear-gradient(to left,  green, white, white, red);
+}
+.felso{
+    height: 10vh;;
+    width: 100%;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+.tartalom{
+    width: 60%; background-color: rgba(255, 255, 255, 0.8); padding-top: 10px; height: fit-content; display: block; margin-left: auto; margin-right: auto;
+}
